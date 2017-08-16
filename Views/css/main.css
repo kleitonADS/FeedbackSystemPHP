@@ -1,0 +1,172 @@
+@charset "UTF-8";
+
+.container {
+  margin-right: auto;
+  margin-left: auto;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.alert-success {
+  text-align: center;
+  font-size: 15px;
+}
+
+.ok.checkgreen{
+  color:green;
+}
+
+
+
+.logobuttons {
+    max-width: 350px;
+    padding: 15px;
+    margin: 0 auto;
+}
+
+.logoHome{
+  font-size: 200px;
+  display: flex;
+  justify-content: center;
+  margin-top: 25%;
+  color: black;
+
+}
+
+.titleLogo{
+  text-align: center;
+}
+
+.mainbuttons{
+  display: flex;
+  justify-content:center;
+}
+
+.buttonshome{
+  background-color: white;
+  border: black solid 2px;
+  width: 140px;
+  margin-left: 0px;
+}
+
+.list-feedback{
+    /*max-width: 600px;*/
+    padding: 15px;
+    margin: 0 auto;
+}
+
+
+.buttonshome:hover{
+    color: white;
+    background-color: black;
+
+}
+
+.buttonsadd{
+  background-color: white;
+  border: black solid 2px;
+  margin-left: 0px;
+  margin-top: 20px;
+
+
+}
+
+.buttonsadd:hover{
+    color: white;
+    background-color: black;
+
+}
+.form-signin-heading{
+  text-align: center;
+}
+
+
+.form-control-regular{
+  border-color: black;
+}
+
+.input-regular{
+  margin-top: 10px;
+}
+
+.ok{
+  color: gray;
+  margin-left: 5px;
+  margin-right: 5px;
+  font-size: 18px;
+}
+.ok:hover{
+  color: green;
+}
+
+.view{
+  margin-left: 5px;
+  font-size: 18px;
+}
+
+.remove{
+  color: red;
+  margin-left: 5px;
+  margin-right: 5px;
+  font-size: 18px;
+}
+
+.status{
+  color: #3399ff;
+}
+
+.blueb{
+  background-color:#337ab7;
+}
+
+.greenb{
+  background-color:green;
+}
+
+.orangeb{
+  background-color:#3399ff;
+}
+
+.grayb{
+  background-color:gray;
+}
+
+.redb{
+  background-color:red;
+}
+
+
+.pag-list{
+  display: flex;
+  justify-content: center;
+}
+
+.graym{
+  color: gray;
+  background-color: transparent;
+  border-color: gray;
+}
+
+.redm{
+  color: red;
+  background-color: transparent;
+  border-color: red;
+}
+
+.bluem{
+  color: #3399ff;
+  background-color: transparent;
+  border-color: #3399ff;
+}
+
+.greem{
+  color: green;
+  background-color: transparent;
+  border-color: green;
+}
+
+.alertfm{
+  color: #8a6d3b;
+  background-color: transparent;
+  border-color: #8a6d3b;
+}
